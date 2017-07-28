@@ -1,0 +1,32 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\robin\\RiderProjects\\MiniatureEureka\\MiniatureEureka\\MiniatureEureka.csproj",
+    "projectName": "MiniatureEureka",
+    "projectPath": "C:\\Users\\robin\\RiderProjects\\MiniatureEureka\\MiniatureEureka\\MiniatureEureka.csproj",
+    "outputPath": "C:\\Users\\robin\\RiderProjects\\MiniatureEureka\\MiniatureEureka\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.1"
+    ],
+    "frameworks": {
+      "netcoreapp1.1": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "1.1.2"
+        },
+        "Microsoft.AspNetCore": {
+          "target": "Package",
+          "version": "1.1.2"
+        }
+      }
+    }
+  }
+}
